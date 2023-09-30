@@ -130,6 +130,7 @@ body {
     justify-content: space-evenly;
     flex-direction: column;
     color: orchid;
+    margin: 15px;
     
 }
 
@@ -158,7 +159,7 @@ body {
 .login {
     display: flex;
     background-image: url(assets/imgs/bg-jelly-fish-para_outras_pags.png);
-   
+   height: 600px;
 } 
 .formulario span {
     font-size: 15px;
@@ -213,4 +214,5 @@ body {
 }
 .cadastro {
     background-image: url(assets/imgs/bg-jelly-fish-para_outras_pags.png) ;
+    height: 600px;
 }
